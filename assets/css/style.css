@@ -1,0 +1,21 @@
+
+
+#ausgabe {
+    display:flex;
+    justify-content: space-between;
+    width:40%;
+}
+
+input[type=text] {
+    width:50%;
+    margin-bottom: 3vh;
+}
+
+#before {
+    margin-top:3vh;
+}
+
+#after {
+    margin-top: 1vh;
+    margin-bottom:5vh;
+}
